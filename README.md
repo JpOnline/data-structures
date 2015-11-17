@@ -98,7 +98,12 @@ da interface, e outra do jogo em andamento:
 
 ![tela do jogo][middleGame]
 
+Bom jogo!
+
 <!-- images -->
-[nodeImg] url/img
-[nodeQueue] url/img
-[screenshots] url/img
+[nodeImg]: https://raw.githubusercontent.com/JpOnline/data-structures/master/projects/Color%20Snake/img/Documentacao/node.png
+[nodeQueue]: https://raw.githubusercontent.com/JpOnline/data-structures/master/projects/Color%20Snake/img/Documentacao/nodeQueue.png
+[screenshots]: https://raw.githubusercontent.com/JpOnline/data-structures/master/projects/Color%20Snake/img/Documentacao/screenshots.png
+[endGame]: https://raw.githubusercontent.com/JpOnline/data-structures/master/projects/Color%20Snake/img/Documentacao/endGame.png
+[startGame]: https://raw.githubusercontent.com/JpOnline/data-structures/master/projects/Color%20Snake/img/Documentacao/startGame.png
+[middleGame]: https://raw.githubusercontent.com/JpOnline/data-structures/master/projects/Color%20Snake/img/Documentacao/middleGame.png
